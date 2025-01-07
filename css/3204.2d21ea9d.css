@@ -1,0 +1,1 @@
+.exam-page{position:relative}.options{display:flex;flex-wrap:wrap;gap:10px}.options ion-card{flex:1 1 calc(50% - 10px);text-align:center}.correct-answer{border:2px solid green;background-color:#e6ffe6}.user-answer{border:2px solid blue;background-color:#e6f7ff}.explanation{margin-top:20px;padding:15px;background-color:#f9f9f9;border-radius:8px}
